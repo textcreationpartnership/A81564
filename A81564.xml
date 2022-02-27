@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Divers remarkeable passages of Gods good providence in the wonderfull preservation and deliverance of John Harington Esqu. Mr. Robert Ram minister, Mr. William Sclater, and Serjeant Horne, all of Spalding in the county of Lincoln, who were taken prisoners by the Cavaliers of Croyland, and kept there the space of five weekes. But are now lately rescued by the Parliaments forces, the town taken with little losse, the forenamed prisoners set at liberty, and many of their adversaries taken in the same net they layd for others. Whereunto is annexed a copy of a letter sent by Mr. Ram to Croyland, which they pretended to be the cause of that their madnesse against him.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81564</idno>
+            <idno type="STC">Wing D1713</idno>
+            <idno type="STC">Thomason E104_34</idno>
+            <idno type="STC">ESTC R2614</idno>
+            <idno type="EEBO-CITATION">99872116</idno>
+            <idno type="PROQUEST">99872116</idno>
+            <idno type="VID">155951</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81564)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155951)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E104[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Divers remarkeable passages of Gods good providence in the wonderfull preservation and deliverance of John Harington Esqu. Mr. Robert Ram minister, Mr. William Sclater, and Serjeant Horne, all of Spalding in the county of Lincoln, who were taken prisoners by the Cavaliers of Croyland, and kept there the space of five weekes. But are now lately rescued by the Parliaments forces, the town taken with little losse, the forenamed prisoners set at liberty, and many of their adversaries taken in the same net they layd for others. Whereunto is annexed a copy of a letter sent by Mr. Ram to Croyland, which they pretended to be the cause of that their madnesse against him.</title>
+                  <author>Harrington, John, 17th cent.</author>
+                  <author>Ram, Robert, d. 1657.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Wright in the Old-baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iune 3. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army. --  Cavaliers of Croyland --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155951:1" rendition="simple:additions"/>
+            <p>DIVERS Remarkeable Paſſages OF GODS GOOD PROVIDENCE in the wonderfull preſervation and deliverance of <hi>John Harington</hi> Eſqu. Mr. <hi>Robert Ram</hi> Miniſter, Mr. <hi>William Sclater,</hi> and Serjeant <hi>Horne,</hi> all of <hi>Spalding</hi> in the County of <hi>Lincoln,</hi> who were taken priſoners by the Cavaliers of <hi>Croyland</hi> and kept there the ſpace of five weekes.</p>
+            <p>But are now lately reſcued by the Parliaments Forces, the Town taken with little loſſe, the forenamed priſoners ſet at liberty, and many of their adver<g ref="char:EOLhyphen"/>ſaries taken in the ſame Net they layd for others.</p>
+            <p>Whereunto is annexed a Copy of a Letter ſent by Mr. <hi>Ram</hi> to <hi>Croyland,</hi> which they pretended to be the cauſe of that their madneſſe againſt him.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>I. Wright</hi> in the Old-baily, <hi>Iune</hi> 3. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155951:2"/>
+            <pb facs="tcp:155951:2"/>
+            <p>UPon Saturday the 25 of <hi>March</hi> being Lady day early in the morning, Captaine <hi>Tho. Stiles,</hi> and Captaine <hi>Cromwell,</hi> Mr. <hi>Wil. Styles</hi> the Miniſter of <hi>Croyland</hi> with about 80 or 90 men came to the Town of <hi>Spalding,</hi> which at that time was utterly unfurniſhed of men and Armes, whereof they had intelligence the evening before, by ſome of our malignant &amp; treacherous neigh<g ref="char:EOLhyphen"/>bours. Neer breake of the day they beſet the houſe of M <hi>Ram,</hi> Mi<g ref="char:EOLhyphen"/>niſter of the Town, where they tooke <hi>J. Harrington</hi> 
+               <abbr>Eſq</abbr> and the ſaid M. <hi>Ram,</hi> and in a violent and uncivill manner carried them a<g ref="char:EOLhyphen"/>way to <hi>Croyland,</hi> at the entering whereof all the people of the town generally were gathered together to ſee and triumph over their priſoners, which put us in mind of <hi>Sampſons</hi> entertainment when he was taken by the Philiſtims. Some others of our Town they took the ſame time, but releaſed all ſave <hi>Edw. Horne,</hi> one of Capt. <hi>Eſcorts</hi> Serjeants; ſo we three were kept together under ſtrong guard, and about ten daies after one M. <hi>Wil. Slater</hi> of <hi>Spalding,</hi> a man of 66 yeer: of age was taken by ſome of their Scouts &amp; made priſoner with us; our uſage for dyet and lodging was indifferent good all the time of our impriſonment, which was five weekes; but ſome inſolenoies we were forced now and then to endure. Capt. <hi>Styles</hi> one day quarrelled with us for praying together, and for bad us to do ſo, ſaying, we ſhould pray every man for himſelfe, threat<g ref="char:EOLhyphen"/>ning to take away the Bible from us, ſaying, it was not fit for Tray<g ref="char:EOLhyphen"/>tors to have the Bible, and by no means would permit us to have Pen, Inke, or Paper, though Mr. <hi>Ram</hi> did earneſtly ſue to him for them, and proteſted that he would write nothing but what they ſhould ſee or heare if they pleaſed. After we had continued there neere 3 weeks, on thurſday the 13 of <hi>April</hi> ſome companies of our friends advanced towards our reliefe, whereupon about 8 a clock that night we were all carried down to the Bulwark, on the North ſide of the Town, where we continued amongſt the rude Souldi<g ref="char:EOLhyphen"/>ers and Townſmen till after midnight: but by reaſon our Forces fell not on that night, we were carried into an Alehouſe, where we
+<pb facs="tcp:155951:3"/>continued till day light, and then were had to our lodgings: but when our Companies approached neerer the Town, then we were all brought forth againe, and another priſoner one <hi>Daniel Pegg</hi> of <hi>Deeping</hi> added to us, and carried to that part of the Town, where the firſt onſet was given, being all of us faſt pynioned and made to ſtand in an open place, where the Cannon began to play; but be<g ref="char:EOLhyphen"/>fore the aſſault, a drummer was ſent with a ſummons to the Town, at whom they ſhot divers times before his entrance, whom they al<g ref="char:EOLhyphen"/>ſo deteined and kept as a priſoner till the Town was taken, con<g ref="char:EOLhyphen"/>trary to the law of Armes. A while after we were all five of us ſet upon the top of the Breſt-worke (according as we had been often threatned before) where we ſtood by the ſpace of three houres, our friends ſhooting fiercely at us for a great part of that time, before they knew us; Cap. <hi>Harrington</hi> tooke one of his ſouldiers mu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kets, charging it with Piſtoll-powder, and himſelfe made three ſhot at his own father, he and all the reſt of the Souldiers on that ſide ſup<g ref="char:EOLhyphen"/>poſing we had been Croylanders that ſtood there to brave them: when our friends perceived who we were, they left firing upon us, and began to play more to the right hand of us, whither M. <hi>Ram</hi> and Serjeant <hi>Horne</hi> were preſently removed, which cauſed our party to hold their hands, ſo that little more was done on that ſide of the Town that day. Indeed their workes were very ſtrong and well lined with Musketiers who were backed with ſtore of Haſ<g ref="char:EOLhyphen"/>ſock-knives, long Sithes, &amp; ſuch like fenniſh weapons, and beſides without their works was a great water, both broad &amp; deep, which encompaſſed all that ſide of the Town, by reaſon whereof our ſmall Forces could doe no good at that time, neith<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r could they approach neerer without great hazzard and loſſe. The Miniſter of the Town M. <hi>Styles</hi> was very active all the time of the fight on the Weſt ſide, where he commanded in chiefe, running from place to place, &amp; if fearefull oathes be the character of a good Souldier, he may wel paſſe Muſter, which made us not ſo much marvell at the abhominable ſwearing which we continually heard almoſt from every mouth, yea, even when the Bullets flew thickeſt. But as the fury of the aſſault began to abate in thoſe parts, ſo did it increaſe on the North ſide, whither preſently Mr. <hi>Ram</hi> and Serjeant <hi>Horne</hi>
+               <pb facs="tcp:155951:3"/>were poſted, and there ſet upon the Bulwarks for our friends on that ſide to play upon, who plied us with great and ſmall ſhot for a great while together, ſuppoſing M. <hi>Ram</hi> had been the vapouring Parſon of the Town: many of our deare and worthy friends have ſince told us how many times they ſhot at us with their own hands and how heartily they deſired to diſpatch us, but the Lord of hoſts, that numbreth the hairs of our heads, ſo guided the Bullets that of the multitudes that flew about our eares, and many of them with<g ref="char:EOLhyphen"/>in halfe Musket-ſhot, not one of them had power to touch us, bleſ<g ref="char:EOLhyphen"/>ſed be the Name of our God. After we had continued 3 houres more upon the North-work, our forces began to retreat, and then were we taken down, and guarded to our lodging, Mr. <hi>Harrington</hi> alſo, &amp; the two other priſoners which had continued all the while on the Weſt-vvork vvere bringing up to us, but the Forces on the north ſide began to fire again, vvhereupon they were carried back by a baſe fellow of the Town to thoſe vvorks, and then our forces on both ſides retreated. Upon this great victory, as the Croylanders vaunted, one Mr. <hi>Iackſon</hi> a Miniſter in the Town drew the people into the Church where he read certain Collects by way of thank<g ref="char:EOLhyphen"/>fulneſſe for their good ſucceſſe: the moſt part of the night follow<g ref="char:EOLhyphen"/>ing was ſpent in drinking, revelling, and rayling upon the Parlia<g ref="char:EOLhyphen"/>ment and round-heads, as if they had offered ſome extraordinary Sacrifice to <hi>Bacchus,</hi> in ſo much that there was ſcarce a ſober ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be found amongſt them: and ſince we are fallen into the menti<g ref="char:EOLhyphen"/>on of M. <hi>Jackſon,</hi> we cannot well omit ſome paſſages of his: he was formerly a great incendiary in another place ſome ten miles from <hi>Croyland,</hi> where he ſtirred up the people in a dangerous and rebel<g ref="char:EOLhyphen"/>lious manner to take up Armes againſt the Parliament, and drew many of good eſtates into action under the command of Captain <hi>Welby,</hi> but God was pleaſed to rout that company without much loſſe of blood; upon the defeat there, Mr. <hi>Iackſon</hi> and others ſhel<g ref="char:EOLhyphen"/>tered themſelves at <hi>Croyland,</hi> where, what by preaching, and what by private perſwading, he was a chiefe inſtrument in ſtir<g ref="char:EOLhyphen"/>ring up the people of <hi>Croyland</hi> to take up Armes and commit ſuch outrages as they did. The laſt Sabbath that we were pri<g ref="char:EOLhyphen"/>ſoners there he preached, and in his Sermon did mightily
+<pb facs="tcp:155951:4"/>encourage the people to play the men, commending them highly for their courage and valour in the former incoun<g ref="char:EOLhyphen"/>ter, and perſwaded them by many arguments to goe on in their reſolution, ſaying, That the cauſe was Gods, and that hee had fought for them, and would doe ſo ſtill, and that all the good peo<g ref="char:EOLhyphen"/>ple of the land prayed for them; hee ſaid alſo, that theſe holy Stones pray for you, theſe holy Books pray for you, which your enemies teare in pieces to light Tobacco withall, the holy Veſt<g ref="char:EOLhyphen"/>ments pray for you, that holy Table prayes for you, which they in many places make an Horſ-rack, yea the Saints in Heaven pray for you; but of this enough, and too much. To proceed with our re<g ref="char:EOLhyphen"/>lation, we heard no more of our friends comming to relieve us till Tueſday the 25. of April, and then the Towne was aſſaulted on three ſides by part of the Regiments of thoſe noble Gentlemen, Colonell Sir <hi>Miles Hobert,</hi> Colonel Sir <hi>Anthony Irby,</hi> and Colonell <hi>Cromwell:</hi> when the Forces advanced ſomewhat neer the Towne, Maſter <hi>Ram</hi> was again called for and brought out of his lodging, and carried with all ſpeed to the North Bulwark, and there being very ſtraitly pinioned, he was laid within the Work upon the wet ground, where he lay for the ſpace of five hours, often intreat<g ref="char:EOLhyphen"/>ing that he might be ſet upon the Bulwark, by reaſon of the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>x<g ref="char:EOLhyphen"/>tream numneſſe of his limbs, &amp; his extraaordinary wearines with lying ſo long in that poſture; but they would not ſuffer him, the with reaſon we conceive was, for that our friends threatned to give quarter if any of us were again ſet upon the Bulwarks. That Tueſday proved a very wet and windy day, and ſo continued till Thurſday morning, that moſt of our Companies were forced to quit their mooriſh rotten quarters and to retreat, onely ſome ſmall parties on the Weſt and South held them in exerciſe day and night moſt part of that time, though the weather was very extream, and they had no ſhelter to defend themſelves from it. On Thurſday in the afternoon all the Companies were drawne down upon the three approaches or banks, by which the Town only is acceſſible by land, who ſo plyed the Croylanders upon every quarter that their hearts began to faile, divers of them ſtea<g ref="char:EOLhyphen"/>ling away into the Coverts and mooriſh grounds on the eaſt ſide
+<pb facs="tcp:155951:4"/>of the Town, which they call <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on,</hi> ſo famous for fiſh and fowl, and many more that night followed their fellows. On Friday mor<g ref="char:EOLhyphen"/>ning thoſe few that remained ſet the beſt face they could upon ſo bad a buſineſſe, and ſeemed as if they would fight it out to a man; but before day light they moved for a Treaty, which being gran<g ref="char:EOLhyphen"/>ted, they ſent their unreaſonable Propoſitions, which being torn aſunder and ſcorned, our men advanced and entred the Town without any oppoſition; ſome of the chiefe Actors got away, yet ſome were taken in the Towne, and many more ſince in ma<g ref="char:EOLhyphen"/>ny places of the Country about; Captain <hi>Styles,</hi> Lieutenant <hi>Au<g ref="char:EOLhyphen"/>burne</hi> of <hi>Lyn, Thomas Bowre</hi> a Scrivener of <hi>London,</hi> Maſter <hi>Jackſon</hi> the Miniſter of <hi>Fleete,</hi> Maſter <hi>William Balder,</hi> and ſome three or foure more are now priſoners at <hi>Colcheſter</hi> and <hi>Ipſwich:</hi> ſome aer committed to the provoſt Marſhall at <hi>Spalding.</hi> Of <hi>Croyland,</hi> onely one was ſlain, and one hurt. Of our men were killed five, &amp; ſome eighteen or twenty wounded, whereof ſome are ſince dead, their wounds being incurable by reaſon of their poiſoned Bullets; ten champt Bullets were found in one mans pocket, ſome of their Muskets being drawn by our men had ſuch Bullets in them, and abundance of the ſame ſort found by our ſouldiers. The principall man we loſt, was Maſter <hi>Nicholas Norwood,</hi> a Gentleman exceeding active and zealous in this and other ſervices; he died of a ſhot in the ſhoulder ſome five or fixe dayes after, was much lamented by all that knew him and his forwardneſſe in the publike cauſe. Thus it pleaſed the Lord to deliver us out of our impriſonment, and miraculouſly to preſerve thoſe that were appointed to die, for which we deſire to bleſſe his Name for ever, and bleſſed be the Lord for raiſing up ſo many noble Gentlemen &amp; worthy friends, not onely of our Neighbours in the Counties round about us, but of other parts far diſtant from us, who with wonderfull cou<g ref="char:EOLhyphen"/>rage and reſolution ingaged themſelves to relieve us, or to die in the place.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>John Harrington.</item>
+                     <item>Robert Ram.</item>
+                     <item>William Slater.</item>
+                     <item>Edward Horne.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:155951:5"/>
+            <head>A Copie of the Letter ſent by Maſter <hi>Ram</hi> to <hi>Croyland,</hi> which they pretended to be the cauſe of their mad<g ref="char:EOLhyphen"/>neſſe againſt him.</head>
+            <p>AS one that truly d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſires your peace and welfare, I adventure once more to write unto y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u; My buſines at this time is to intreat you to accept of the ad<g ref="char:EOLhyphen"/>vice of a friend, who though but a ſtander by, perhaps ſees more then you that play the game: I beſeech you conſider how dangerouſly you run the hazard both of your lives and fortunes in this courſe you take. Doe you thinke that to take up Arms, to make Bulwarks and Fortifications without Commiſſion, to diſobey all Warrants and Commands, are not very high contempts? Can you imagine that the Parliament, or the Committee at <hi>Lincolne</hi> will endure ſuch affronts? Or can you hope to defend your ſelves againſt ſuch Forces as may eaſily and ſpeedily be raiſed againſt you? Surely your numbers and your preparations are not ſo great, but that a ſmall power may prevaile againſt you; neither is your Towne ſo inacceſſible, but that it may be approached many wayes; a piece of Ordnance will ſoone com<g ref="char:EOLhyphen"/>mand and batt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r down your houſes at two or three miles diſtance, beſides, it is poſſible in a very ſhort time to famiſh your Towne by cutting off all ſupplies of Corne and other proviſion: perhaps you expect ſome Forces from other parts that will come in to your aid; perhaps they which have ſo promiſed, you will not or cannot be ſo good as their word, or if they be, ſurely <hi>Croyland</hi> is not able to receive, at leaſt to maintain any conſiderable number of men. Good Neighbours, think ſeriouſly on theſe things, and do not deſperately ruine your ſelves and your poſterity, but hearken timely to the Counſell of Peace. I know your plea is, that you ſtand but upon your <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wne guard, and defence of your ſelves and eſtates, ſo pleaded <hi>C. W.</hi> ſo pleaded Grand ſo plead all that ſtand out againſt the Parliament; but the Parliament al<g ref="char:EOLhyphen"/>lows not of ſuch a plea, neither will it endure to be ſo contemned. Aſſure your ſelves that if the Forces at <hi>Lyn, Cambridge, Northhampton, Nottingham, Lincoln, Boſton,</hi> and <hi>Spalding,</hi> be able to reduce you to the Parliaments Obedience and Juſtice, you will not long eſcape them; my counſell therefore is, that you will play the parts of wiſe men, lay down your Armes and ſubmit your ſelves, liſten not to them that adviſe you to ſtand out, they will be the firſt that will forſake you; let thoſe that are named in the laſt Warrant preſent themſelves to the Committee without delay, it will be the beſt dayes worke that ever they did; and if they will be pleaſed to make uſe of me, I will doe them the beſt ſervice I can, not doubting but that I ſhall obtaine their peace upon faire termes. Thus beſeeching the God of peace to incline your hearts to theſe motions of peace, I reſt</p>
+            <closer>
+               <signed>Your faithfull friend <hi>Robert Ram.</hi>
+               </signed>
+               <dateline>Spalding <date>Jan. 31. 1642.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:155951:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
